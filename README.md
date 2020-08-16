@@ -1,2 +1,2 @@
-# МЕТОДЫ БОРЬБЫ С НЕУСТОЙЧИВОСТЯМИ КОРРЕЛЯЦИЙ ВРЕМЕННЫХ РЯДОВ
+# Time Series Delay Estimation
 Текст работы: [thesis.pdf](thesis.pdf)
